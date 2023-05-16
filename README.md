@@ -10,5 +10,5 @@ This Repository is dedicated for Project Done at Duhacks2.0
   <li>Brij Patel</li>
 </ul>
 
-# WON 8th Rank 
-[Link to certificate](https://certopus.com/c/dd29489e4a8c4550bba845d873cedafe)
+# Secured 8th Rank 
+[Link to certificate](https://certopus.com/c/77297058bbbb4562ac0ad8efbba926ea)
