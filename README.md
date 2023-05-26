@@ -1,14 +1,21 @@
-# FarMart
-This Repository is dedicated for Project Done at Duhacks2.0
+## The problem FarMart solves.
+Our initiative is helping farmers with huge farms in managing their tasks by hiring us and we are providing them with our work force and tools. We are an online platform that connects farmers with customers looking for fresh, high-quality produce straight from the farm. Our mission is to support farmers and promote sustainable agriculture practices by making it easy for consumers to purchase locally sourced, farm-fresh products. At FarMart, we offer a wide range of products including fresh fruits and vegetables, herbs, dairy products, meat, and poultry. All of our products come directly from local farms, and we ensure that they are of the highest quality and free from any harmful chemicals or pesticides
+As FarMart, we believe in providing fair prices to our farmers and ensuring that they receive a fair share of the profits. By choosing to shop with us, you are supporting local farmers and helping to promote sustainable farming practices in your community.
 
-# Team Members:
+#### [Project Video](https://www.youtube.com/watch?v=-EWLoQ9UpcM)
+
+### Tech Stack: HTML, CSS, Javascript, PHP.
+  
+### Outcome of the Hackathon: <i>Secured 8th Rank</i>
+   [Certificate](https://certopus.com/c/77297058bbbb4562ac0ad8efbba926ea)
+
+
+
+#### Team Members:
 
 <ul>
-  <li>Kevin Tamakuwala</li>
-  <li>Nisarg Pipaliya</li>
-  <li>Kevin Sangani</li>
-  <li>Brij Patel</li>
+  <li> <i>Kevin Tamakuwala (Team Lead & Frontend Developer)</i></li>
+  <li><i>Brij Patel (Frontend Developer)</i> </li>
+  <li><i>Nisarg Pipaliya (Backend Developer) </i></li>
+  <li><i>Kevin Sangani (Backend Developer) </i></li>  
 </ul>
-
-# Secured 8th Rank 
-[Link to certificate](https://certopus.com/c/77297058bbbb4562ac0ad8efbba926ea)
